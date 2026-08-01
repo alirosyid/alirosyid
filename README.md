@@ -1,16 +1,35 @@
-## Hi there 👋
+# ⚡ Ali Rosyid
+**B2B AI Automation Architect | n8n & Python**
 
-<!--
-**alirosyid/alirosyid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building enterprise-grade systems that save 100+ hours/month for agencies and SaaS. I focus on algorithmic efficiency, autonomous systems, and zero-trust logic over manual, fragile workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ Flagship Architectures
+
+### 1. [Enterprise ABM & Stateful Outreach Engine](https://github.com/alirosyid/stateful-abm-engine)
+An autonomous, closed-loop pipeline designed to replace manual Sales Development Representative (SDR) labor.
+* **Core Mechanisms:** Stateful RAM hijacking for zero duplicate outreach, high-frequency LLM data extraction via Groq API (Llama-3), and anti-spam SMTP jitter rotation.
+* **Impact:** Sustains >95% email delivery rates while executing hyper-personalized B2B outreach at scale.
+
+### 2. [Clinical Triage Gateway](https://github.com/alirosyid/clinical-triage-gateway)
+Enterprise orchestration pipeline designed for intelligent healthcare routing.
+* **Core Mechanisms:** Intelligent patient triage, zero-trust PII redaction, and stateful clinical routing.
+* **Tech Stack:** Python, Security-First Orchestration, API Routing.
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📡 Transmission
+* **LinkedIn:** [in/alirosyid-ai-automation](https://linkedin.com/in/alirosyid-ai-automation)
+* **GitHub:** [@alirosyid](https://github.com/alirosyid)

@@ -10,12 +10,14 @@ Building enterprise-grade systems that save 100+ hours/month for agencies and Sa
 ### 1. [Enterprise ABM & Stateful Outreach Engine](https://github.com/alirosyid/stateful-abm-engine)
 An autonomous, closed-loop pipeline designed to replace manual Sales Development Representative (SDR) labor.
 * **Core Mechanisms:** Stateful RAM hijacking for zero duplicate outreach, high-frequency LLM data extraction via Groq API (Llama-3), and anti-spam SMTP jitter rotation.
-* **Impact:** Sustains >95% email delivery rates while executing hyper-personalized B2B outreach at scale.
 
 ### 2. [Clinical Triage Gateway](https://github.com/alirosyid/clinical-triage-gateway)
 Enterprise orchestration pipeline designed for intelligent healthcare routing.
 * **Core Mechanisms:** Intelligent patient triage, zero-trust PII redaction, and stateful clinical routing.
-* **Tech Stack:** Python, Security-First Orchestration, API Routing.
+
+### 3. [Autonomous FinOps & Reconciliation Engine](https://github.com/alirosyid/autonomous-finops-pipeline)
+Zero-trust financial orchestration designed to autonomously process, validate, and reconcile B2B invoices.
+* **Core Mechanisms:** Local PII masking (GDPR compliant), deterministic Python math validation bypassing LLM hallucinations, and stateful double-spend fraud prevention.
 
 ---
 

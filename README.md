@@ -1,5 +1,5 @@
 # ⚡ Ali Rosyid
-**B2B AI Automation Architect | n8n & Python**
+**AI Backend & Automation Architect | Python, FastAPI, Docker, n8n**
 
 Building enterprise-grade systems that save 100+ hours/month for agencies and SaaS. I focus on algorithmic efficiency, autonomous systems, and zero-trust logic over manual, fragile workflows.
 

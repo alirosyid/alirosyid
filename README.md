@@ -1,34 +1,34 @@
 # ⚡ Ali Rosyid
 **AI Backend & Automation Architect | Python, FastAPI, Docker, n8n**
 
-Building enterprise-grade systems that save 100+ hours/month for agencies and SaaS. I focus on algorithmic efficiency, autonomous systems, and zero-trust logic over manual, fragile workflows.
+Building event-driven AI backend systems and stateful B2B automation pipelines that save 100+ hours/month for agencies and SaaS. I focus on algorithmic efficiency, asynchronous microservices, and zero-trust security over manual, fragile workflows.
 
 ---
 
 ## 🏗️ Flagship Architectures
 
-### 1. [Enterprise ABM & Stateful Outreach Engine](https://github.com/alirosyid/stateful-abm-engine)
-An autonomous, closed-loop pipeline designed to replace manual Sales Development Representative (SDR) labor.
-* **Core Mechanisms:** Stateful RAM hijacking for zero duplicate outreach, high-frequency LLM data extraction via Groq API (Llama-3), and anti-spam SMTP jitter rotation.
+### 1. [Event-Driven Enterprise RAG Engine](https://github.com/alirosyid/enterprise-rag-python)
+An auditable, highly concurrent Retrieval-Augmented Generation (RAG) system designed for zero LLM hallucination.
+* **Core Mechanisms:** Event-driven architecture decoupling heavy Llama-3 inference via Celery/Redis, FastAPI API Gateway, semantic caching, and parallel grading microservices utilizing Qdrant vector search.
 
-### 2. [Clinical Triage Gateway](https://github.com/alirosyid/clinical-triage-gateway)
-Enterprise orchestration pipeline designed for intelligent healthcare routing.
-* **Core Mechanisms:** Intelligent patient triage, zero-trust PII redaction, and stateful clinical routing.
-
-### 3. [Autonomous FinOps & Reconciliation Engine](https://github.com/alirosyid/autonomous-finops-pipeline)
+### 2. [Autonomous FinOps & Reconciliation Engine](https://github.com/alirosyid/autonomous-finops-pipeline)
 Zero-trust financial orchestration designed to autonomously process, validate, and reconcile B2B invoices.
-* **Core Mechanisms:** Local PII masking (GDPR compliant), deterministic Python math validation bypassing LLM hallucinations, and stateful double-spend fraud prevention.
+* **Core Mechanisms:** Local PII masking (GDPR compliant), deterministic Python math validation bypassing probabilistic LLM errors, and stateful double-spend fraud prevention.
+
+### 3. [Enterprise ABM & Stateful Outreach Engine](https://github.com/alirosyid/stateful-abm-engine)
+An autonomous, closed-loop pipeline designed to replace manual Sales Development Representative (SDR) labor.
+* **Core Mechanisms:** Stateful RAM hijacking for 0% duplicate outreach, high-frequency data extraction via Llama-3 (Groq API), and strict anti-spam SMTP rotation.
 
 ---
 
 ## 🛠️ Tech Stack & Arsenal
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
